@@ -18,6 +18,7 @@ LLM や embedding の提供元、DB の構成は、それぞれのフェーズ�
 
 ```sh
 pnpm install
+pnpm fetch-docs  # 検索対象の文書を data/docs/ に取得する
 pnpm test        # Vitest
 pnpm lint        # oxlint
 pnpm format      # oxfmt
