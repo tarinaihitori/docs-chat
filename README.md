@@ -1,4 +1,4 @@
-# rag-chatbot-lab
+# docs-chat
 
 検索・RAG・ベクトル DB・SSE を、小さな RAG チャットボットを TypeScript で作りながら学ぶためのリポジトリ。
 
