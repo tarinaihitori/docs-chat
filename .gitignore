@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+
+# API キーなどの機密情報（.env.example だけをコミットする）
+.env
+.env.*
+!.env.example
+
+# Claude Code の個人設定
+.claude/settings.local.json
